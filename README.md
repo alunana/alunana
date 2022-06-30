@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alunana
 - 👀 I’m interested in  fazer  faculdade
 - 🌱 I’m currently learning  muitas coisas
-- 💞️ I’m looking to collaborate on  em casa 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on em muitas coisas
+- 📫 How to reach me nao chegue.
 
 <!---
 alunana/alunana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
