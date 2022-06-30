@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alunana
 - 👀 I’m interested in  fazer  faculdade
 - 🌱 I’m currently learning  muitas coisas
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  em casa 
 - 📫 How to reach me ...
 
 <!---
